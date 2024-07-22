@@ -12,7 +12,7 @@ namespace lab_2_csharp
 
         private void frmMain_Load(object sender, EventArgs e)
         {
-            Console.WriteLine("Hello World!");
+            MessageBox.Show("Hello, World!");
         }
     }
 }
